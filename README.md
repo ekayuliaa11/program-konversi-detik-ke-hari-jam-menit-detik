@@ -15,3 +15,9 @@
     cout <<hari<<" Hari\n"<<jam<<" Jam\n"<<menit<<" Menit\n"<<detik<<" Detik\n"<<endl;
     return 0;
     }
+
+
+
+
+hasil program
+![img](https://github.com/ekayuliaa11/program-konversi-detik-ke-hari-jam-menit-detik/blob/master/hasil%20konversi%20detik.png?raw=true)
